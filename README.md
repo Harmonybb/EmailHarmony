@@ -6,18 +6,10 @@ EmailHarmony is a email app that is a simple clone of the very popular Gmail app
 
 Time spent: 6 hours spent in total
 
-## Required Features
-
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] User can scroll through a list of 10 emails
 - [x] Each email includes the following information: Sender, Email title, and Email summary
-
-The following **optional** features are implemented:
-
-- [ ] Wishlist app is 🎨 **customized** 🎨
-- [ ] User can delete an item by long pressing on the item
-- [ ] User can open an item's URL by clicking on the item
 
 Here's a walkthrough of implemented user stories:
 
@@ -30,6 +22,3 @@ GIF created with ...
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-Describe any challenges encountered while building the ap
